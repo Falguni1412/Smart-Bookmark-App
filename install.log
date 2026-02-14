@@ -1,0 +1,37 @@
+STARTING INSTALL 
+
+added 13 packages, and audited 373 packages in 16s
+
+142 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+STARTING INSTALL 
+C:\Program Files\nodejs\npm
+C:\Program Files\nodejs\npm.cmd
+C:\Users\falgu\AppData\Roaming\npm\npm
+C:\Users\falgu\AppData\Roaming\npm\npm.cmd
+
+up to date, audited 373 packages in 3s
+
+142 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+INSTALL DONE 
+ Volume in drive D is Development
+ Volume Serial Number is 2CB9-523A
+
+ Directory of d:\Code\SmartBookmark app\smart-bookmark-app\node_modules\@supabase
+
+02/13/2026  12:39 AM    <DIR>          .
+02/13/2026  12:39 AM    <DIR>          ..
+02/13/2026  12:39 AM    <DIR>          auth-js
+02/13/2026  12:39 AM    <DIR>          functions-js
+02/13/2026  12:39 AM    <DIR>          postgrest-js
+02/13/2026  12:39 AM    <DIR>          realtime-js
+02/13/2026  12:39 AM    <DIR>          ssr
+02/13/2026  12:39 AM    <DIR>          storage-js
+02/13/2026  12:39 AM    <DIR>          supabase-js
+               0 File(s)              0 bytes
+               9 Dir(s)  237,344,411,648 bytes free
